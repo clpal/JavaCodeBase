@@ -1,4 +1,8 @@
 package exceptions.customException.Unchecked;
 
-public class ResourceNotFoundException {
+// Custom Exception extending RuntimeException (unchecked)
+public class ResourceNotFoundException extends RuntimeException {
+    public ResourceNotFoundException(String message) {
+        super(message);
+    }
 }

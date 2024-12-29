@@ -1,4 +1,4 @@
-package exceptions.customException.CheckedCustomException;
+package exceptions.customException.Checked;
 
 // Custom Exception extending Exception (checked)
 public class InvalidAgeException extends Exception {

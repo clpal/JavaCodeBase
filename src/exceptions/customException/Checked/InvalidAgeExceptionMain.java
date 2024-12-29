@@ -1,4 +1,4 @@
-package exceptions.customException.CheckedCustomException;
+package exceptions.customException.Checked;
 
 
 public class InvalidAgeExceptionMain {
