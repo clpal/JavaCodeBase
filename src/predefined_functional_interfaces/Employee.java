@@ -1,4 +1,4 @@
-package prededifinedFunctionalInterface;
+package predefined_functional_interfaces;
 
 public class Employee {
    private int age;
