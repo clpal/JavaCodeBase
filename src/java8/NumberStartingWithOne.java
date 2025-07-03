@@ -11,7 +11,12 @@ public class NumberStartingWithOne {
               .map(s -> s + "") // Convert integer to String
               .filter(s -> s.startsWith("1"))
               .forEach(System.out::println);
-     
+
+
+/*        myList.stream()
+                .map(String::valueOf) // Convert integer to String
+                .filter(s -> s.startsWith("1"))
+                .forEach(System.out::println);*/
 }
 
 	

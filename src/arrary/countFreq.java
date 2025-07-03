@@ -14,7 +14,7 @@ public class countFreq {
 		//int arr[] = new int[]{10, 30, 40, 20, 10, 20, 50, 10}; 
 		int n = arr.length;
 		// countFreq(arr, n); 
-		// countFreqHashMap(arr, n); 
+		 countFreqHashMap(arr, n);
 		 
 		 
 			/*

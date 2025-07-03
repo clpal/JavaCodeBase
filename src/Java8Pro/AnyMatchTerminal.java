@@ -9,6 +9,6 @@ public class AnyMatchTerminal {
         List<Integer>integers= Arrays.asList(1,23,4,5,6,7,2);
         boolean aa=integers.stream().anyMatch(x->x.intValue()==2);
         boolean cc=integers.stream().anyMatch(x->x.equals(2));
-        System.out.printf(""+cc);
+        System.out.printf(""+aa);
     }
 }
