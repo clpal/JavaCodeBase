@@ -1,4 +1,4 @@
-package Java8Pro;
+package Java8Pro.reduceMethod;
 
 import java.util.Arrays;
 import java.util.List;
@@ -23,5 +23,9 @@ public class SumofArrayListElement {
         Integer  sum1= list.stream().reduce(Integer::sum).get();
         Optional<Integer>  sum2= list.stream().reduce(Integer::sum);
         System.out.println(sum2.get());
+
+        // sum of subsequents element
+        Optional<Integer> f=list.stream().reduce((c,d)->c+d);
+        System.out.println(f.get());
     }
 }

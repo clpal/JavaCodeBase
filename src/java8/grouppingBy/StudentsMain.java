@@ -1,4 +1,4 @@
-package java8.GroupBy;
+package java8.grouppingBy;
 
 public class StudentsMain {
     public static void main(String[] args) {

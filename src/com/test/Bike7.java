@@ -1,4 +1,4 @@
-package Demojava;
+package com.test;
 class Bike7{
     int speed;
 

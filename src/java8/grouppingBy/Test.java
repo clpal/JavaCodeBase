@@ -1,4 +1,4 @@
-package java8.GroupBy;
+package java8.grouppingBy;
 
 import java.util.stream.Collectors;
 
