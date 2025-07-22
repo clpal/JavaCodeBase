@@ -1,4 +1,4 @@
-package predefined_functional_interfaces;
+package java8.predefined_functional_interfaces;
 
 import java.util.Arrays;
 import java.util.List;

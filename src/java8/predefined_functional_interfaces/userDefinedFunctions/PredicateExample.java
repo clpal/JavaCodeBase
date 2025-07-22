@@ -1,4 +1,4 @@
-package predefined_functional_interfaces.userDefinedFunctions;
+package java8.predefined_functional_interfaces.userDefinedFunctions;
 
 import java.util.function.Predicate;
 // and, test , or ,negative

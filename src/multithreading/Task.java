@@ -1,4 +1,4 @@
-package com.ExecutorService;
+package multithreading;
 
 public class Task implements  Runnable{
     @Override
