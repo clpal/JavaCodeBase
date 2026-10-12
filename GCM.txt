@@ -1,0 +1,29 @@
+https://storage.googleapis.com/cdl-cheat-sheet/Cloud%20Digitial%20Leader%20Cheat%20Sheat.pdf
+
+
+1. On Demand Videos: https://partner.cloudskillsboost.google/paths/75
+2. Study Guide Additional Material:
+https://services.google.com/fh/files/misc/c-cdlilt-b_study_guide_v2-0.pdf
+3. CDL Guide: https://cdl.guide/
+4. Access to Slides: https://partner.cloudskillsboost.google/classrooms/28384/notes
+5. To register for the exam: https://cp.certmetrics.com/google/en/public/register
+
+https://cloud.google.com/vision/docs/drag-and-drop
+
+
+1. On Demand Videos: https://partner.cloudskillsboost.google/paths/75
+2. Study Guide Additional Material:
+https://services.google.com/fh/files/misc/c-cdlilt-b_study_guide_v2-0.pdf
+3. CDL Guide: https://cdl.guide/
+4. Access to Slides: https://partner.cloudskillsboost.google/classrooms/28384/notes
+5. To register for the exam: https://cp.certmetrics.com/google/en/public/register
+
+
+https://partner.cloudskillsboost.google/
+https://partner.cloudskillsboost.google/paths/75
+
+https://docs.google.com/forms/d/e/1FAIpQLSfZYAsPO_mp5UteirDGx2xEzUdf1aY7h4TABaoWy7so-MNSyQ/viewform
+
+https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY
+
+aditi.pareek@hcltech.com
